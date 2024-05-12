@@ -1,0 +1,21 @@
+@import url('http://fonts.goggleapis.com/css2?family=ui-monospace:wght@400;700&display=swap');
+
+
+
+*{
+          box-sizing: border-box;
+}
+
+body{
+          font-family: 'monospace', monospace;
+          background-color: rgb(161, 100, 223);
+          display: flex;
+          flex-wrap: wrap;
+          /* flex-direction: column; */
+          align-items: center;
+          text-align: center;
+          justify-content: center;
+          overflow-x: hidden;
+          height: 100vh;
+          margin: 0;
+}
